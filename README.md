@@ -35,7 +35,7 @@ pricing-core/
 ├── tests/
 ├── examples/
 └── CMakeLists.txt
-
+```
 Design principles:
 - strict separation between model, numerics and pricing
 - interchangeable components (models, schemes, RNG)
