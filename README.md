@@ -21,7 +21,7 @@ Pricing & Analytics / Quantitative Development environments.
 ---
 
 ## Architecture
-
+```text
 pricing-core/
 ├── include/pricing/
 │   ├── stochastic/
